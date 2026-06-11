@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Local configuration
+/local.properties
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/inspectionProfiles
+/.idea/migrations.xml
+/.idea/runConfigurations.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/deviceManager.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/gradle.xml
+/.idea/codeStyles
+
+# macOS
+.DS_Store
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Captures / profiling
+/captures
+
+# Source project (kept as separate repository)
+/XR-Demo1.0/
