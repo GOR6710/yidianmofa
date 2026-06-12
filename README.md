@@ -1,4 +1,4 @@
-# 一点魔法 / yidianmofa
+# 亿点魔法 / yidianmofa
 
 Pico Spatial SDK 上的「灵宝 AI」空间交互演示应用。
 
